@@ -1,7 +1,5 @@
 install.packages("httr2")
-install.packages("here")
 library(httr2)
-library(here)
 
 base_url <- "https://api.thecatapi.com/v1/images/search"
 
